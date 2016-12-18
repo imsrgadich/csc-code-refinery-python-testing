@@ -1,3 +1,3 @@
-# test-ex
+# CSC Code Refinery
 
-Exercising Travis and Coveralls.
+Exercise on TravisCI and Coveralls.
